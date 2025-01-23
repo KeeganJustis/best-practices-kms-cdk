@@ -9,3 +9,5 @@ Access Policies: Implement least privilege IAM policies for secure key access.
 Alias Management: Assign meaningful aliases for easier key management.
 Data Encryption: Integrate KMS keys with AWS services (e.g., S3).
 Audit Logging: Enable CloudTrail for monitoring key usage.
+
+## Work in Progress
