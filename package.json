@@ -1,0 +1,19 @@
+{
+  "name": "best-practices-kms-cdk",
+  "version": "1.0.0",
+  "description": "KMS Best Practices with Terraform CDK This project demonstrates how to set up AWS Key Management Service (KMS) with best practices using Terraform CDK in TypeScript. The implementation applies object-oriented programming (OOP) principles for modular, reusable, and maintainable code.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KeeganJustis/best-practices-kms-cdk.git"
+  },
+  "author": "Keegan Justis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KeeganJustis/best-practices-kms-cdk/issues"
+  },
+  "homepage": "https://github.com/KeeganJustis/best-practices-kms-cdk#readme"
+}
